@@ -1,0 +1,1 @@
+DashBoardClient in view is added just to test the roles.

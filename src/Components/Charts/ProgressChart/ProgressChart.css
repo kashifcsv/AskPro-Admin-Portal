@@ -1,0 +1,14 @@
+.recentJobsCard{
+    width: 100%;
+    height: 500px;
+    margin-top: 3px;
+    margin-bottom : 3px;
+    border-radius: 2%;
+}
+.moreInfoBtn{
+    margin-top: 10px;
+    margin-right: 5px;
+    position:absolute;
+    top:0;
+    right:0;
+}

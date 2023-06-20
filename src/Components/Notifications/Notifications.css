@@ -1,0 +1,48 @@
+.notificationBar {
+  margin-top: 0;
+  background-color: #d9e5f1;
+  padding: 10px;
+  margin-top: 4px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  margin-right: -10px;
+  margin-left: -10px;
+}
+
+.notificationCard {
+  /* margin-top: "1px"; */
+  border-radius: "0.25rem";
+  /* min-height: 705px;
+  max-height: 705px; */
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.notificationBody {
+  text-align: left;
+  margin-top: 3px;
+  /* border: 2px solid red; */
+}
+
+.notificationTime {
+  color: cornflowerblue;
+  font-weight: bold;
+  font-size: small;
+}
+
+.notificationDescription {
+  margin: 0;
+}
+
+.seeAllBtn {
+  margin: 10px;
+}
+
+.timeShowCss {
+  text-align: justify;
+  /* For Edge */
+  -moz-text-align-last: right;
+  /* For Firefox prior 58.0 */
+  text-align-last: right;
+  margin-top: -2%;
+}

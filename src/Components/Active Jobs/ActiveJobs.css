@@ -1,0 +1,15 @@
+.activeJobsBar {
+    margin-top: 0;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+  }
+  .activeJobsCard{
+    height: auto;
+    border-radius: 5;
+  }
+  .Action{
+    color: skyblue ;
+  }

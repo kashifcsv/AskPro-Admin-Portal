@@ -1,0 +1,22 @@
+.firstRowEstimatorReview {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.detailRowEstimatorReview {
+  font-family: Montserrat;
+  font-size: 15px;
+  font-weight: bold;
+  color: #bababa;
+  margin-left: -15%;
+}
+.detailsRowEstimatorReview {
+  font-family: Montserrat;
+  font-size: 22px;
+  color: #bababa;
+  width: 80%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

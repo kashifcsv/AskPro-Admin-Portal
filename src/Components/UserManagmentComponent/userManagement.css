@@ -1,0 +1,67 @@
+.userListLine {
+  font-family: Montserrat;
+  font-size: 13px;
+  color: #6a6a6a;
+  font-weight: bold;
+  display: flex;
+  align-self: flex-start;
+}
+
+.userListData {
+  font-family: Montserrat;
+  font-size: 20px;
+  color: #6a6a6a;
+  font-weight: bold;
+}
+.br10 {
+  border-radius: 10px;
+}
+.labelCss {
+  font-family: Myanmar Text;
+  font-size: 15px;
+  font-weight: bold;
+}
+.uploadWidthAutoGenerate {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  width: 18%;
+  position: relative;
+  z-index: 1;
+  background-color: #427fb9;
+  color: white;
+}
+.per {
+  font-weight: bold;
+  font-size: 17px;
+  display: flex;
+  font-family: Montserrat;
+  color: #6d6d6d;
+}
+.per2 {
+  font-weight: bold;
+  font-size: 22px;
+  display: flex;
+  font-family: Montserrat;
+  color: #6d6d6d;
+}
+.btnUser {
+  color: #fff;
+  background-color: #427fb9;
+  border-color: #427fb9;
+}
+.buttonColorDelete {
+  background-color: lightcoral;
+  color: white;
+}
+.permissions {
+  margin-left: 27%;
+  font-size: 17px;
+  border: none;
+}
+.bord {
+  border: none;
+}
+
+.bord:focus {
+  outline: none;
+}

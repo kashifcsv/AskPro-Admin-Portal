@@ -1,0 +1,21 @@
+.incomingBarAllEstimator {
+  margin-top: 0;
+  background-color: #d9e5f1;
+  padding: 8px;
+  margin: 4px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.FontSizeAllEstimators {
+  font-size: 23;
+  font-weight: bold;
+}
+
+.searchBarRecentEstimatesSearch {
+  position: absolute;
+  top: 5px;
+  right: 1%;
+  display: flex;
+  /* justify-content: space-between; */
+}

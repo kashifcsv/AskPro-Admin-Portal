@@ -1,0 +1,81 @@
+.navLinks {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  background-color: rgb(36, 33, 33);
+  color: aliceblue;
+  padding: 10px;
+  width: auto;
+}
+
+.injectionIcon {
+  margin-bottom: 12px;
+}
+
+.main_nav {
+}
+
+h1 {
+  display: inline;
+}
+
+.clean {
+  color: aliceblue;
+}
+.ask {
+  color: rgb(68, 68, 148);
+}
+
+.buttonbooknow {
+  background-color: rgb(61, 57, 57);
+  color: aliceblue;
+  padding: 20px;
+  width: 110px;
+}
+
+.Logout {
+  background-color: rgb(61, 57, 57);
+  color: aliceblue;
+  padding: 20px;
+  width: 110px;
+}
+
+.dotes {
+  background-color: rgb(61, 57, 57);
+  color: aliceblue;
+  padding: 12.5px;
+  width: 110px;
+}
+
+p.test2 {
+  writing-mode: vertical-rl;
+}
+
+.icondollar {
+  color: rgb(57, 57, 180);
+}
+
+.buttons_nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.logoutbutton {
+  /* height: 200%; */
+  background-color: #427fb9;
+}
+
+.nav_color {
+  background-color: #090818;
+}
+
+.button_color {
+  color: aliceblue;
+  background-color: #1d2f3f;
+}
+
+.pointer {
+  cursor: pointer;
+}

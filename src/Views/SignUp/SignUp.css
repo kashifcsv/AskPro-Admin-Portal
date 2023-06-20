@@ -1,0 +1,11 @@
+.certimg {
+display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.inputfield {
+display: flex !important;
+    flex-direction: row !important;
+    width: -webkit-fill-available !important;
+}

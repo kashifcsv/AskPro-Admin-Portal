@@ -1,0 +1,14 @@
+.kpiCard{
+    width: 100%;
+    height : 70px;
+    margin-top: 3px;
+    margin-bottom : 3px;
+    
+}
+.kpiMCard{
+    
+    border-radius : 10% ;
+}
+.btnInsideCard{
+    margin: 1%;
+}

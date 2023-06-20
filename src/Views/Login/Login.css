@@ -1,0 +1,102 @@
+.required:after {
+  content: " *";
+  color: red;
+  font-size: x-large;
+}
+
+.bgColorLogin {
+  background-color: #100f17;
+}
+
+body {
+  background-color: #100f17;
+}
+
+.loginComponent {
+  overflow: hidden;
+  overflow-y: hidden;
+}
+
+.adminSignIN {
+  /* font-family: EurostileBold; */
+  font-size: 45px;
+  color: white;
+}
+
+.signIn {
+  background-color: #171d2a;
+}
+
+.form-control-lg {
+  border-radius: 44px;
+}
+
+.Helvetica {
+  font-family: Helvetica;
+}
+
+#typeEmailX {
+  background-image: url("../../Assets/Images/username.png");
+  position: left;
+  background-repeat: no-repeat;
+  background-size: 45px;
+}
+
+/* ::-webkit-input-placeholder {
+  text-align: center;
+} */
+
+input[name="centerPlaceHolder"]::placeholder {
+  text-align: center;
+}
+
+.textCenter {
+  text-align: center;
+  border: 0px solid #1e2f49;
+}
+
+#typePasswordX {
+  background-image: url("../../Assets/Images/password.png");
+  position: left;
+  background-repeat: no-repeat;
+  background-size: 45px;
+}
+
+.EurostileBoldCSS {
+  /* font-family: EurostileBold; */
+  font-size: 20px;
+}
+
+.inputBg {
+  background-color: #1e2f49;
+  color: white;
+}
+
+.btnLoginSubmit {
+  background-color: #427fb9;
+  border-radius: 44px;
+  color: white;
+}
+
+.cardBodyLogin {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.loginPadding {
+  padding: 13%;
+}
+
+.sideIcons {
+  display: inline-block;
+}
+
+.forgotPassword {
+  color: white;
+  text-decoration: none;
+}
+
+.loginFooterCss {
+  position: fixed;
+  bottom: 0;
+}

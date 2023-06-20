@@ -1,0 +1,17 @@
+.main_menu {
+  background-color: lightgray;
+  overflow: hidden;
+}
+
+/* Main Body is use to contol div of main body  */
+
+.cardsCenter {
+  justify-content: center;
+}
+.sideBarElement {
+  justify-content: end;
+}
+
+.sidebar_bg_color {
+  background-color: #090818;
+}

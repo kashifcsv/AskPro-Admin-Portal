@@ -1,0 +1,80 @@
+.EstimateQuotation {
+  margin: 4px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.elapsedTimeBottom {
+  border: 2px solid #ed1c24;
+  background-color: white;
+  /* font-family: Myriad Pro; */
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  border-radius: 17px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.elapseSpan {
+  font-size: 21;
+  font-weight: bold;
+}
+
+.elapsedPara {
+  font-size: 90%;
+}
+
+.clientReviewsQuotation {
+  background-color: #d9e5f1;
+  padding: 10px;
+  margin: 4px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.blueCircleImages {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  height: 80%;
+  border-radius: 50%;
+}
+
+.clientReview {
+  font-size: 15px;
+  text-align: left;
+}
+
+.firstRowEstimatorReview {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.additionalNotes {
+  font-size: 15px;
+  font-family: Arial;
+  text-align: left;
+}
+
+.additionalNotesCard {
+  padding: 50px;
+  box-shadow: 0px 3px 10px 8px #f2f2f2;
+  border-radius: 15px;
+}
+
+.btnBgColor {
+  background-color: #ffad10;
+  color: black;
+}
+.q1Image {
+  transform: scale(0.4);
+}
+.EnterAmountInDollar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}

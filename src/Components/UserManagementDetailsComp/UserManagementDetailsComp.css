@@ -1,0 +1,38 @@
+.hr_css {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.border_class {
+  width: 150%;
+  border-radius: 15px;
+}
+
+.service_border {
+  border: none;
+}
+
+.responsiveImg {
+  width: -webkit-fill-available;
+}
+.userListLine {
+  font-family: Montserrat;
+  font-size: 13px;
+  color: #6a6a6a;
+  font-weight: bold;
+  display: flex;
+  align-self: flex-start;
+}
+.permissionsListItem {
+  font-family: Montserrat;
+  font-size: 22px;
+  color: #6a6a6a;
+  font-weight: bold;
+  display: flex;
+  align-self: flex-start;
+}
+.selectedCardUserManagement {
+  font-size: bold;
+  font-family: Montserrat;
+  font-size: 15px;
+}

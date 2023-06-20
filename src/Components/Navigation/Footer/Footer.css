@@ -1,0 +1,21 @@
+.footercss {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #090818;
+  color: white;
+  text-align: center;
+}
+
+.footer_color {
+  background-color: #090818;
+}
+
+.footerFont {
+  font-family: Helvetica;
+}
+
+.row {
+  padding: 0px;
+}
